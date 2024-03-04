@@ -92,13 +92,13 @@ style="margin-bottom: 13px;" width="70px" height="20px">
 <h2 align=center>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Let's connect</h2>
 
-<section style="display:flex; justify-content:center; gap:1rem;">
+<div align=center style="display:flex; gap:2rem;">
 <a href="https://github.com/DonealPique"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <a href="https://www.linkedin.com/in/doneal-piqué/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="17px" style="margin-bottom:10px;"/></a>
 
 <a href="https://www.instagram.com/#/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</section>
+</div>
 
 <h2 align=center>🪪 Github profile stats</h2>
 
