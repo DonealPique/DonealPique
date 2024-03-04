@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Loading%20....%20Doneal.exe%20initialized.%20&desc=Yours%20Truly%20Piqué%20⟪₯⟫&fontSize=40&fontAlignY=40&descSize=25&descAlignY=58&animation=scaleIn)
 
-<section style="display:flex; justify-content:center; gap:2rem;">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonealPique%2Fhit-counter&count_bg=%23313299&title_bg=%23323131&icon=swagger.svg&icon_color=%23FFFFFF&title=views&edge_flat=false"/></a>
+  <a style="display:flex; justify-content:center; gap:2rem;" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonealPique%2Fhit-counter&count_bg=%23313299&title_bg=%23323131&icon=swagger.svg&icon_color=%23FFFFFF&title=views&edge_flat=false"/></a>
   
-  <a href="https://wakatime.com/@018df563-4bd5-442f-a221-6551e19f9f06"><img src="https://wakatime.com/badge/user/018df563-4bd5-442f-a221-6551e19f9f06.svg" alt="Total time coded"/></a>
-</section>
+  <a style="display:flex; justify-content:center; gap:2rem;" href="https://wakatime.com/@018df563-4bd5-442f-a221-6551e19f9f06"><img src="https://wakatime.com/badge/user/018df563-4bd5-442f-a221-6551e19f9f06.svg" alt="Total time coded"/></a>
 
 <h2 align=center>About me🧑‍💻</h2>
 
@@ -122,7 +120,7 @@ style="margin-bottom: 13px;" width="70px" height="20px">
 <p align="center"><img src="https://weather-badge.vercel.app/api/badge?lat=52.377956&lon=4.897070" alt="Doneal-amsterdam" width="200px"></p>
 
 <p align="center"><img src="https://weather-badge.vercel.app/api/badge?lat=5.86638&lon=-55.16682"alt="Doneal-suriname" width="200px"></p>
-</section>
+</div>
 
 <h2 align=center>🎧 My Spotify</h2>
 
