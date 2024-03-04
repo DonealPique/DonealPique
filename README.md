@@ -107,6 +107,8 @@ style="margin-bottom: 13px;" width="70px" height="20px">
   &nbsp;
    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DonealPique&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="DonealPique-languages" height="180px"/></p>
 
+![Github-snake](https://github.com/DonealPique/DonealPique/blob/output/github-contribution-grid-snake.svg)
+
 <h2 align=center>🏆 Git profile Trophies</h2>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DonealPique&layout=compact&theme=algolia" alt="trophies-github" /></a></p>
