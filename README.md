@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Loading%20....%20Doneal.exe%20initialized.%20&desc=Yours%20Truly%20Piqué%20⟪₯⟫&fontSize=40&fontAlignY=40&descSize=25&descAlignY=58&animation=scaleIn)
 
-<div align=center style="display:flex; gap:0.7rem;">
+<div align=center style="display:flex; gap:2rem;">
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonealPique%2Fhit-counter&count_bg=%23313299&title_bg=%23323131&icon=swagger.svg&icon_color=%23FFFFFF&title=views&edge_flat=false" alt="GitHub Hits">
   </a>
@@ -123,7 +123,7 @@ style="margin-bottom: 13px;" width="70px" height="20px">
 </div>
 
 <h2 align=center>☁️Check the weather</h2>
-<section style="display:flex; justify-content: center; gap: 1rem;">
+<div align=center style="display:flex; gap:2rem;">
 <p align="center"><img src="https://weather-badge.vercel.app/api/badge?lat=52.377956&lon=4.897070" alt="Doneal-amsterdam" width="200px"></p>
 
 <p align="center"><img src="https://weather-badge.vercel.app/api/badge?lat=5.86638&lon=-55.16682"alt="Doneal-suriname" width="200px"></p>
@@ -131,10 +131,10 @@ style="margin-bottom: 13px;" width="70px" height="20px">
 
 <h2 align=center>🎧 My Spotify</h2>
 
-<section style="display:flex; justify-content:center;">
+<div align=center style="display:flex;">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ouavkdhmuledt4rufphgrzh6da&redirect=true">
       <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ouavkdhmuledt4rufphgrzh6da&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Songs">
   </a>
-</section>
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&fontSize=40&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
