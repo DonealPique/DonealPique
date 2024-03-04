@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Loading%20....%20Doneal.exe%20initialized.%20&desc=Yours%20Truly%20Piqué%20⟪₯⟫&fontSize=40&fontAlignY=40&descSize=25&descAlignY=58&animation=scaleIn)
 
-<div style="display:flex; justify-content:center; gap:0.7rem;">
+<div align=center style="display:flex; gap:0.7rem;">
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonealPique%2Fhit-counter&count_bg=%23313299&title_bg=%23323131&icon=swagger.svg&icon_color=%23FFFFFF&title=views&edge_flat=false" alt="GitHub Hits">
   </a>
