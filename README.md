@@ -92,10 +92,10 @@ style="margin-bottom: 13px;" width="70px" height="20px">
 <h2 align=center>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Let's connect</h2>
 
-<div align="center" style="display:flex; gap:2rem; flex-direction:row;">
+<div align="center" style="display:flex; gap:2rem;">
   <a href="https://github.com/DonealPique"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 
-  <a href="https://www.linkedin.com/in/doneal-piqué/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="17px" style="margin-bottom:10px;"/></a>
+  <a href="https://www.linkedin.com/in/doneal-piqué/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="17px"></a>
 
   <a href="https://www.instagram.com/#/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
@@ -106,8 +106,6 @@ style="margin-bottom: 13px;" width="70px" height="20px">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DonealPique Github Stats" src="https://github-readme-stats.vercel.app/api?username=DonealPique&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
   &nbsp;
    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DonealPique&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="DonealPique-languages" height="180px"/></p>
-
-    ![Snake animation](https://github.com/DonealPique/DonealPique/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align=center>🏆 Git profile Trophies</h2>
 
@@ -123,7 +121,7 @@ style="margin-bottom: 13px;" width="70px" height="20px">
 </div>
 
 <h2 align=center>☁️Check the weather</h2>
-<div align=center style="display:flex; gap:2rem; flex-direction:row;">
+<div align=center style="display:flex; gap:2rem;">
 <p align="center"><img src="https://weather-badge.vercel.app/api/badge?lat=52.377956&lon=4.897070" alt="Doneal-amsterdam" width="200px"></p>
 
 <p align="center"><img src="https://weather-badge.vercel.app/api/badge?lat=5.86638&lon=-55.16682"alt="Doneal-suriname" width="200px"></p>
