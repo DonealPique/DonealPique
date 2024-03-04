@@ -20,9 +20,13 @@ jobs:
 
       - uses: Platane/snk@master
 
+      - name: Prepare build directory
+        run: mkdir dist
+
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
