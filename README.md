@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Loading%20....%20Doneal.exe%20initialized.%20&desc=Yours%20Truly%20Piqué%20⟪₯⟫&fontSize=40&fontAlignY=40&descSize=25&descAlignY=58&animation=scaleIn)
 
-<div style="display:flex; justify-content:center; gap:2rem;">
+<section style="display:flex; justify-content:center; gap:2rem;">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonealPique%2Fhit-counter&count_bg=%23313299&title_bg=%23323131&icon=swagger.svg&icon_color=%23FFFFFF&title=views&edge_flat=false"/></a>
   
   <a href="https://wakatime.com/@018df563-4bd5-442f-a221-6551e19f9f06"><img src="https://wakatime.com/badge/user/018df563-4bd5-442f-a221-6551e19f9f06.svg" alt="Total time coded"/></a>
-</div>
+</section>
 
 <h2 align=center>About me🧑‍💻</h2>
 
@@ -87,13 +87,13 @@ style="margin-bottom: 13px;" width="70px" height="20px">
 <h2 align=center>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Let's connect</h2>
 
-<div style="display:flex; justify-content:center; gap:1rem;">
+<section style="display:flex; justify-content:center; gap:1rem;">
 <a href="https://github.com/DonealPique"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <a href="https://www.linkedin.com/in/doneal-piqué/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="17px" style="margin-bottom:10px;"/></a>
 
 <a href="https://www.instagram.com/#/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</div>
+</section>
 
 <h2 align=center>🪪 Github profile stats</h2>
 
@@ -118,18 +118,18 @@ style="margin-bottom: 13px;" width="70px" height="20px">
 </div>
 
 <h2 align=center>☁️Check the weather</h2>
-<div style="display:flex; justify-content: center; gap: 1rem;">
+<section style="display:flex; justify-content: center; gap: 1rem;">
 <p align="center"><img src="https://weather-badge.vercel.app/api/badge?lat=52.377956&lon=4.897070" alt="Doneal-amsterdam" width="200px"></p>
 
 <p align="center"><img src="https://weather-badge.vercel.app/api/badge?lat=5.86638&lon=-55.16682"alt="Doneal-suriname" width="200px"></p>
-</div>
+</section>
 
 <h2 align=center>🎧 My Spotify</h2>
 
-<div style="display:flex; justify-content:center;">
+<section style="display:flex; justify-content:center;">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ouavkdhmuledt4rufphgrzh6da&redirect=true">
       <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ouavkdhmuledt4rufphgrzh6da&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Songs">
   </a>
-</div>
+</section>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&fontSize=40&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
