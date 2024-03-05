@@ -210,7 +210,7 @@ __.._,-" .-"'"")  /' ,' _          \ |  /"-.`j""``---.._
 ```
 
 <h2 align=center> 🚀 &nbsp;My Tech Stacks</h2>
-<marquee align="center" scrollamount="10">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
@@ -233,7 +233,7 @@ __.._,-" .-"'"")  /' ,' _          \ |  /"-.`j""``---.._
 <img src=https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white style="margin-bottom: 8.6px;">
 <img src= https://img.shields.io/badge/Power%20BI-%23F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=white)
 style="margin-bottom: 13px;" width="70px" height="20px">
-</marquee>
+</p>
 
 <h2 align=center>💻 Operating System</h2>
 
