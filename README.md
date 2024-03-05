@@ -107,7 +107,7 @@ style="margin-bottom: 13px;" width="70px" height="20px">
   &nbsp;
    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DonealPique&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="DonealPique-languages" height="180px"/></p>
 
-![3d-commits](./profile-3d-contrib/profile-3d-contrib/profile-gitblock.svg)
+![3d-commits](./profile-3d-contrib/profile-gitblock.svg)
 
 <h2 align=center>🏆 Git profile Trophies</h2>
 
