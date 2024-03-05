@@ -2,29 +2,22 @@ name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
-    - cron: "0 */12 * * *"
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
-
     steps:
       # Snake Animation
-      - name: Snake Animation
-        id: snake-gif
-        run: |
-          echo "github_user_name=DonealPique" >> $GITHUB_ENV
-          echo "svg_out_path=dist/github-contribution-grid-snake.svg" >> $GITHUB_ENV
-
       - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: DonealPique
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Prepare build directory
-        run: mkdir dist
-
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
