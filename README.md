@@ -259,6 +259,7 @@ style="margin-bottom: 13px;" width="70px" height="20px">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DonealPique Github Stats" src="https://github-readme-stats.vercel.app/api?username=DonealPique&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
   &nbsp;
    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DonealPique&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="DonealPique-languages" height="180px"/></p>
+<h2 align=center>📊 Github contributions graph</h2>
 
 ![3d-commits](./profile-3d-contrib/profile-gitblock.svg)
 
