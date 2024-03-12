@@ -240,8 +240,9 @@ style="margin-bottom: 13px;" width="70px" height="20px">
 <p align="center">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/e2c74cea-25c3-4d72-9eb4-ecbe93eaeae4/deploy-status)](https://app.netlify.com/sites/donthedev/deploys)
 </p>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e2c74cea-25c3-4d72-9eb4-ecbe93eaeae4/deploy-status)](https://app.netlify.com/sites/donthedev/deploys)
 
 <h2 align=center>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Let's connect</h2>
