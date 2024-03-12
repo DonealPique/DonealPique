@@ -291,4 +291,4 @@ style="margin-bottom: 13px;" width="70px" height="20px">
   </a>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&fontSize=40&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
+![footer-bg](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&fontSize=40&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
