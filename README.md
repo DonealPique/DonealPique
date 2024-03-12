@@ -240,6 +240,7 @@ style="margin-bottom: 13px;" width="70px" height="20px">
 <p align="center">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  [![Portfolio Status](https://api.netlify.com/api/v1/badges/e2c74cea-25c3-4d72-9eb4-ecbe93eaeae4/deploy-status)](https://app.netlify.com/sites/donthedev/deploys)
 </p>
 
 <h2 align=center>
