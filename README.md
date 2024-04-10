@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Loading%20....%20Doneal.exe%20initialized.%20&desc=Yours%20Truly%20Piqué%20⟪₯⟫&fontSize=40&fontAlignY=40&descSize=25&descAlignY=58&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Loading%20....%20Code.exe%20initialized.%20&desc=Yours%20Truly%20Piqué%20⟪₯⟫&fontSize=40&fontAlignY=40&descSize=25&descAlignY=58&animation=scaleIn)
 
 <div align=center style="display:flex; gap:2rem;">
   <a href="https://hits.seeyoufarm.com">
