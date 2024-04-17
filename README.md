@@ -59,7 +59,7 @@ hobbies:
                       -   -ooooooo
                      |   |         o
                     |   |           o
-                    |   |           o
+                    |   |     23    o
                     |   /           o
                     |  | o         o
                     |  |   ooooooo
