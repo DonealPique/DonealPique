@@ -285,10 +285,6 @@ style="margin-bottom: 13px;" width="70px" height="20px">
 
 <h2 align=center>🎧 My Spotify</h2>
 
-<div align=center style="display:flex;">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ouavkdhmuledt4rufphgrzh6da&redirect=true">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ouavkdhmuledt4rufphgrzh6da&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Songs">
-  </a>
-</div>
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ouavkdhmuledt4rufphgrzh6da&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ouavkdhmuledt4rufphgrzh6da&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
 
 ![footer-bg](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&fontSize=40&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
