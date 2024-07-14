@@ -16,10 +16,11 @@
 ```
 name: Doneal Piqué
 located_in: Netherlands, Amsterdam
-current_job: Undefined ❌ ⟫ Available ✅
+current_job: A'DAM VR Game & Race Park · Part-time ⟫ Unavailable ❌
 education:
   [
     "Bit Academy → Software development (present)",
+    "ROCVA Zuid-Oost → Student (present)"
     "NATIN → WTB",
     "STS → WTB",
   ]
@@ -47,7 +48,6 @@ Goals for 2024:
 ]
 hobbies: 
 [
-    "Boxing",
     "Gaming",
     "Reading Comics/Mangas/Manhwa",
     "Editing",
